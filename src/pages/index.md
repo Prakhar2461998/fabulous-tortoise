@@ -43,27 +43,26 @@ sections:
     type: section_features
   - bg: white
     reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
+      - author: NexaStack
+        avatar: ''
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
+          Custom Demo  Let us demonstrate how NexaStack NoOps Platform can
+          address your specific challenges and use cases.
+      - author: NexaStack
+        avatar: ''
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
+          Proof of Value  Your apps. Your environment. NexaStack's expertise.
+          Let us illustrate the value of NexaStack NoOps to your organization
+      - author: NexaStack
+        avatar: ''
         content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Open Demo  Not ready to commit to a custom demo? Drop in to our
+          on-demand presentation for a look at your leisure.
     section_id: reviews
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    title: Testimonials
+      NoOps Platform for BigData & Data Science. Continuous Delivery Platform.
+      Enterprise ready.
+    title: Learn More About NexaStack NoOps Platform
     type: section_reviews
   - actions:
       - label: Explore
