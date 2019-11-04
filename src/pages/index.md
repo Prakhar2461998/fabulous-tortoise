@@ -66,11 +66,13 @@ sections:
     title: Testimonials
     type: section_reviews
   - actions:
-      - label: Get Started
-        url: /signup
+      - label: Explore
+        url: ''
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
+    subtitle: ''
+    title: >-
+      Application Modernization using Deep Learning from Monolithic to Cloud
+      Native
     type: section_cta
   - bg: gray
     section_id: recent-posts
