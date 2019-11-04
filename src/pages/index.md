@@ -5,7 +5,7 @@ sections:
       - label: Learn More
         url: /features
     content: |-
-      #  NoOps Platform for BigData & Data Science
+      # NoOps Platform for BigData & Data Science
 
       ## Continuous Delivery Platform. Enterprise ready.
 
@@ -14,26 +14,20 @@ sections:
     section_id: ''
     title: ''
     type: section_hero
-  - bg: gray
+  - bg: white
     featureslist:
       - actions:
           - label: Learn More
-            url: /features
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+            url: ''
+        content: ''
+        image: /images/self-healing-microservices.png
+        title: ''
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: ''
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: ''
       - actions:
           - label: Learn More
             url: /features
@@ -45,9 +39,11 @@ sections:
         title: Cool Feature of Your Services
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+      NexaStack supports your entire custom application portfolio. Rapidly
+      build, deploy, run, and manage cloud native, microservices, and
+      container-based .NET and Java applications or modernize traditional
+      workloads.
+    title: New & Traditional Applications
     type: section_features
   - bg: white
     reviews:
