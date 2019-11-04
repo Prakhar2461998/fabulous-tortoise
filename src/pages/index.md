@@ -33,17 +33,14 @@ sections:
           - label: Learn More
             url: /features
         content: ''
-        image: images/feature2.png
+        image: ''
         title: ''
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+        content: ''
+        image: ''
+        title: ''
     section_id: features
     subtitle: ''
     title: New & Traditional Applications
