@@ -74,9 +74,9 @@ sections:
       Application Modernization using Deep Learning from Monolithic to Cloud
       Native
     type: section_cta
-  - bg: gray
+  - bg: white
     section_id: recent-posts
-    title: Latest Posts
+    title: Deploy As You Need
     type: section_posts
 menus:
   main:
