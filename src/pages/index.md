@@ -5,9 +5,9 @@ sections:
       - label: Learn More
         url: /features
     content: |-
-      NoOps Platform for BigData & Data Science
+      #  NoOps Platform for BigData & Data Science
 
-      Continuous Delivery Platform. Enterprise ready.
+      ## Continuous Delivery Platform. Enterprise ready.
 
       ![](/images/nexastack-brand.png)
     image: ''
