@@ -75,6 +75,11 @@ sections:
     type: section_cta
   - bg: white
     section_id: recent-posts
+    subtitle: >-
+      Nexastack devops & Serverless Computing Platform provides flexibility and
+      stability for continuous delivery pipeline deployment securely on public
+      ,private or Hybrid Cloud .Choose the cloud Platform thats suits to your
+      application workload.
     title: Deploy As You Need
     type: section_posts
 menus:
