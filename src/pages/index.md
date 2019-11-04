@@ -84,7 +84,7 @@ sections:
     type: section_posts
 menus:
   main:
-    title: Home
+    title: Products
     weight: 1
 template: landing
 ---
