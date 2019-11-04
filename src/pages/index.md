@@ -19,8 +19,15 @@ sections:
       - actions:
           - label: Learn More
             url: ''
-        content: ''
-        image: /images/self-healing-microservices.png
+        content: >-
+          NexaStack supports your entire custom application portfolio. Rapidly
+          build, deploy, run, and manage cloud native, microservices, and
+          container-based .NET and Java applications or modernize traditional
+          workloads.
+
+
+          ![](/images/self-healing-microservices.png)
+        image: ''
         title: ''
       - actions:
           - label: Learn More
@@ -38,11 +45,7 @@ sections:
         image: images/feature3.png
         title: Cool Feature of Your Services
     section_id: features
-    subtitle: >-
-      NexaStack supports your entire custom application portfolio. Rapidly
-      build, deploy, run, and manage cloud native, microservices, and
-      container-based .NET and Java applications or modernize traditional
-      workloads.
+    subtitle: ''
     title: New & Traditional Applications
     type: section_features
   - bg: white
