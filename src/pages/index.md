@@ -29,15 +29,11 @@ sections:
           ![](/images/self-healing-microservices.png)
         image: ''
         title: ''
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: ''
         image: ''
         title: ''
-      - actions:
-          - label: Learn More
-            url: /features
+      - actions: []
         content: ''
         image: ''
         title: ''
